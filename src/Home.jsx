@@ -7,9 +7,8 @@ const Home = () => {
     <div>
       <Helmet>
         <title>Home</title>
-        
       </Helmet>
-      <h1>Home 1</h1>
+      <h1>Home Butterfly</h1>
       <Link to="/settings">Go to settings</Link>
     </div>
   );
