@@ -30,7 +30,7 @@ const Home = () => {
           content="https://wordtracker-swoop-uploads.s3.amazonaws.com/uploads/ckeditor/pictures/2090/content_beach.jpg"
         />
       </Helmet>
-      <h1>Home1</h1>
+      <h1>Home SSR</h1>
       <Link to="/settings">Go to settings</Link>
     </div>
   );
